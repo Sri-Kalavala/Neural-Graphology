@@ -1,0 +1,18 @@
+# Ignore raw data and large datasets
+data/raw/
+
+# Ignore output files or results
+outputs/
+
+# Ignore virtual environment folder
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files that might contain secrets
+.env
